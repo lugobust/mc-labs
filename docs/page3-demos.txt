@@ -1,0 +1,13 @@
+# LABS
+
+For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+
+<!-- ![setup-export](./detect_images/air.png){ width="1200" } -->
+
+## Commands
+
+* `mkdocs new [dir-name]` - Create a new project.
+* `mkdocs serve` - Start the live-reloading docs server.
+* `mkdocs build` - Build the documentation site.
+* `mkdocs -h` - Print help message and exit.
+
