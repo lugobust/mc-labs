@@ -17,3 +17,11 @@ Utilizing object detection workflows, we can accurately count trees within point
 
 
 [Request :fontawesome-solid-paper-plane:](../page5-contact.md/){ .md-button }
+
+## Land segmentation
+![setup-export](./detect_images/Mineral-Exploration-and-Mine-Site-Development-inline.jpg){ width="400" }
+![setup-export](./detect_images/Mineral-Exploration-and-Mine-Site-Development-inline-seg.jpg){ width="400" }
+
+## Site understanding
+![setup-export](./detect_images/Services-Surveying-OilSands-inline.jpg){ width="400" }
+![setup-export](./detect_images/Services-Surveying-OilSands-inline-seg.jpg){ width="400" }
