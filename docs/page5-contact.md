@@ -20,10 +20,8 @@ Gabriel Lugo (1) Steve Rombough (2) Kevin Grover (3)
     :fontawesome-regular-user:{ .lg .middle } __Gabriel Lugo__ 
 
     ---
-
+<!-- 
     Geospatial Analyst
-
-    <!-- [:octicons-arrow-right-24: Getting started](#) -->
 
 -   ![Image title](./Demos/meta/images/profile/steve.png){: style="height:140px;width:150px"}
 
@@ -33,7 +31,6 @@ Gabriel Lugo (1) Steve Rombough (2) Kevin Grover (3)
 
     Division Manager
 
-    <!-- [:octicons-arrow-right-24: Reference](#) -->
 
 -   ![Image title](./Demos/meta/images/profile/kevin.png){: style="height:140px;width:150px"}
     
@@ -41,7 +38,7 @@ Gabriel Lugo (1) Steve Rombough (2) Kevin Grover (3)
     
     ---
 
-    ART Leader
+    ART Leader -->
 
 </div>
 

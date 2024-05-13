@@ -6,7 +6,7 @@
 
     ---
 
-    Discover the fundamentals of Python programming with this Basic Guide.
+    Discover the fundamentals of Python programming with this Basic Guide
 
     [:octicons-arrow-right-24: Getting started](https://www.w3schools.com/python/default.asp)
 
@@ -18,20 +18,20 @@
 
     [:octicons-arrow-right-24: Explore](https://github.com/sacridini/Awesome-Geospatial)
 
-<!-- -   :material-format-font:{ .lg .middle } __Made to measure__
+-   :material-data-matrix:{ .lg .middle } __ArcGIS pretrained models__
 
     ---
 
-    Change the colors, fonts, language, icons, logo and more with a few lines
+    Accelerate your geospatial workflows with built-in expertise and resources designed specifically for image feature extraction, land-cover classification, image redaction, and detecting objects
 
-    [:octicons-arrow-right-24: Customization](#)
+    [:octicons-arrow-right-24: Explore ArcGIS Living Atlas of the World](https://livingatlas.arcgis.com/en/browse/?q=dlpk#d=1&q=dlpk)
 
--   :material-scale-balance:{ .lg .middle } __Open Source, MIT__
+-   :material-link-box:{ .lg .middle } __GeoAI__
 
     ---
 
-    Material for MkDocs is licensed under MIT and available on [GitHub]
+    Geospatial artificial intelligence (GeoAI from Esri) is the application of artificial intelligence (AI) fused with geospatial data, science, and technology to accelerate real-world AI-driven geospatial workflows.
 
-    [:octicons-arrow-right-24: Benchmarks](../links/open-datasets/#arborist-ai-datasets) -->
+    [:octicons-arrow-right-24: Explore](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/)
 
 </div>
