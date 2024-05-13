@@ -1,4 +1,4 @@
-site_name: McElhanney Labs
+site_name: McElhannAI Labs
 theme:
   logo: ./Demos/meta/images/logo.jpg
   name: material
@@ -58,4 +58,4 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 copyright: |
-  &copy; 2024 <a href="https://www.mcelhanney.com/"  target="_blank" rel="noopener">McElhanney Labs</a>
+  &copy; 2024 <a href="https://www.mcelhanney.com/"  target="_blank" rel="noopener">McElhannAI Labs</a>
