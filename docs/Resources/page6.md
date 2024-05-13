@@ -30,7 +30,7 @@
 
     ---
 
-    Geospatial artificial intelligence (GeoAI from Esri) is the application of artificial intelligence (AI) fused with geospatial data, science, and technology to accelerate real-world AI-driven geospatial workflows.
+    Geospatial artificial intelligence (GeoAI from Esri) is an application of artificial intelligence (AI) fused with geospatial data, science, and technology to accelerate real-world AI-driven geospatial workflows.
 
     [:octicons-arrow-right-24: Explore](https://www.esri.com/en-us/capabilities/geoai/overview)
 
