@@ -1,5 +1,6 @@
 site_name: McElhannAI Labs
 theme:
+  favicon: ./Demos/meta/images/logo.jpg
   logo: ./Demos/meta/images/logo.jpg
   name: material
   features:
