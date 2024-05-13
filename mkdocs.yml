@@ -1,7 +1,7 @@
 site_name: McElhannAI Labs
 theme:
-  favicon: ./Demos/meta/images/logo.jpg
-  logo: ./Demos/meta/images/logo.jpg
+  favicon: ./Demos/meta/images/logo_black.jpg
+  logo: ./Demos/meta/images/logo_black.jpg
   name: material
   features:
     - navigation.tabs
