@@ -1,4 +1,4 @@
-# Contact
+# Team
 
 <!-- ![Image title](./Demos/meta/images/profile/gabriel.png){: style="height:150px;width:160px"}
 ![Image title sdfsdfds](./Demos/meta/images/profile/steve.png){: style="height:150px;width:160px"}
