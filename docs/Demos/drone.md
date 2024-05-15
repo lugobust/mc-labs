@@ -80,7 +80,27 @@ We can swiftly identify parking lots and efficiently count their numbers, facili
     <source src="../videos/lot-only-trim.mp4" type="video/mp4">
 </video>
 
+
+=== ":octicons-image-16: Image"
+
+    [![Linked content lot enabled]][Linked content lot enabled]
+
+=== ":fontawesome-solid-wand-magic-sparkles: Predictions"
+
+    [![Linked content lot disabled]][Linked content lot disabled]
+
+<!-- === "Shapefile"
+
+    [![Linked content tabs shp]][Linked content tabs disabled] -->
+
+  [instant loading]: ./detect_images/test4.jpg
+  [Linked content lot enabled]: ./detect_images/test4.jpg
+  [Linked content lot disabled]: ./detect_images/test4p.jpg
+
+
+
 [Request :fontawesome-solid-paper-plane:](../page5-contact.md/){ .md-button }
+
 ## Road marking segmentation
 
 We can assess the condition of road marking lines with precision, ensuring optimal road safety and maintenance standards.
