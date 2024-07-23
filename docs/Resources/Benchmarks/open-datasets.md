@@ -1,18 +1,18 @@
 # Datasets
 
- This guide introduces various formats of datasets that are compatible with the Ultralytics YOLO model and provides insights into their structure, usage, and how to convert between different formats.
+ This guide introduces various formats of datasets that are compatible with the Ultralytics and provides insights into their structure, usage, and how to convert between different formats.
 
-## McAI - Datasets
+<!-- ## McAI - Datasets
 Training datasets will be available soon.
 
 - [**Roche15tile**](): A collection of LiDAR data collected with geoslam. It contains 2D annotations for trunk objects from rendered point clouds at 0.011 pixel precision.
 
-- [**Roche5tile**](): A collection of LiDAR data collected with geoslam. It contains 2D annotations for trunk objects from rendered point clouds at 0.001 pixel precision.
+- [**Roche5tile**](): A collection of LiDAR data collected with geoslam. It contains 2D annotations for trunk objects from rendered point clouds at 0.001 pixel precision. -->
 
 
 ## Open Datasets
 
-Here is a list of the supported datasets and a brief description for each:
+List of the supported datasets and a brief description for each:
 
 - [**Argoverse**](https://docs.ultralytics.com/datasets/detect/argoverse/): A collection of sensor data collected from autonomous vehicles. It contains 3D tracking annotations for car objects.
 - [**COCO**](https://docs.ultralytics.com/datasets/detect/coco/): Common Objects in Context (COCO) is a large-scale object detection, segmentation, and captioning dataset with 80 object categories.

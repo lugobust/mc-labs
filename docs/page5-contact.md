@@ -1,4 +1,4 @@
-# Team
+# Profile
 
 <!-- ![Image title](./Demos/meta/images/profile/gabriel.png){: style="height:150px;width:160px"}
 ![Image title sdfsdfds](./Demos/meta/images/profile/steve.png){: style="height:150px;width:160px"}
@@ -20,6 +20,8 @@ Gabriel Lugo (1) Steve Rombough (2) Kevin Grover (3)
     :fontawesome-regular-user:{ .lg .middle } __Gabriel Lugo__ 
 
     ---
+
+- PhD in Computing Science, Expertise includes natural images, video, depth images, time-series, and point clouds. Experience with Deep/Machine Learning, Computer Vision, NLP, Signal Processing, Virtual/Augmented Reality, and 2D/3D visualization.
 <!-- 
     Geospatial Analyst
 

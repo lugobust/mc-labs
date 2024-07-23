@@ -1,7 +1,5 @@
-site_name: McElhannAI Labs
+site_name: Gabriel Lugo
 theme:
-  favicon: ./Demos/meta/images/logo_black.jpg
-  logo: ./Demos/meta/images/logo_black.jpg
   name: material
   features:
     - navigation.tabs
@@ -32,11 +30,11 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/facebook
-      link: http://www.linkedin.com/company/mcelhanney
+      link: https://lugobust.github.io/mc-labs/
     - icon: fontawesome/brands/x-twitter
-      link: https://twitter.com/McElhanney
+      link: https://lugobust.github.io/mc-labs/
     - icon: fontawesome/brands/linkedin
-      link: http://www.linkedin.com/company/mcelhanney
+      link: https://lugobust.github.io/mc-labs/
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
@@ -59,4 +57,4 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 copyright: |
-  &copy; 2024 <a href="https://www.mcelhanney.com/"  target="_blank" rel="noopener">McElhannAI Labs</a>
+  &copy; 2024 <a href="https://lugobust.github.io/mc-labs/"  target="_blank" rel="noopener">Gabriel Lugo</a>
